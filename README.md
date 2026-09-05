@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Pritam Ghosh
 📊 **Aspiring Data Analyst | Fresher | Passionate About Data & Technology**
-Email Me 👉 ✉️ **ghosh.pritam2k02@gmail.com**** For Collaboration/Project or Anything Else. 😊😊
+- Email Me 👉 ✉️ **ghosh.pritam2k02@gmail.com**** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Data Analytics projects using real-world datasets
 - 🌱 **I’m currently learning: SQL, Python, Excel, Power BI, Statistics & Data Visualization**
